@@ -25,3 +25,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
+![Timezone](https://img.shields.io/badge/Timezone-Brasilia%20(UTC--3)-lightgrey)
+
